@@ -12,7 +12,7 @@ Model and document real-world system requirements using UML diagrams and archite
 
 ### 🧠 Domain Model
 Represents key entities and their relationships.  
-![Domain Model](./screenshots/Domain-Model.png)
+![Domain Model](./screenshots/Domain-Model.PNG)
 
 ---
 
@@ -29,41 +29,41 @@ Add, update, delete products.
 - **Use Case:**  
   ![UseCase-R1](./screenshots/usecase-diagram-R1.PNG)  
 - **Sequence Diagrams:**  
-  ![Sequence-R1](./screenshots/sequence-diagram-R1.png)
+  ![Sequence-R1](./screenshots/sequence-diagram-R1.PNG)
 
 ---
 
 ### ✅ R2: Manage Orders  
 Create and update orders.  
 - **Use Case:**  
-  ![UseCase-R2](./screenshots/usecase-diagram-R2.png)  
+  ![UseCase-R2](./screenshots/usecase-diagram-R2.PNG)  
 - **Sequence Diagrams:**  
-  ![Sequence-R2](./screenshots/Sequence-diagram-R2.png)
+  ![Sequence-R2](./screenshots/Sequence-diagram-R2.PNG)
 
 ---
 
 ### ✅ R3: Manage Suppliers  
 Add and update supplier info.  
 - **Use Case:**  
-  ![UseCase-R3](./screenshots/usecase-diagram-R3.png)  
+  ![UseCase-R3](./screenshots/usecase-diagram-R3.PNG)  
 - **Sequence Diagrams:**  
-  ![Sequence-R3](./screenshots/Sequence-diagram-R3.png)
+  ![Sequence-R3](./screenshots/Sequence-diagram-R3.PNG)
 
 ---
 
 ### ✅ R4: Manage Inventory  
 Track and update stock levels.  
 - **Use Case:**  
-  ![UseCase-R4](./screenshots/Usecase-diagram-R4.png)  
+  ![UseCase-R4](./screenshots/Usecase-diagram-R4.PNG)  
 - **Sequence Diagrams:**  
-  ![Sequence-R4](./screenshots/Sequence-diagram-R4.png)
+  ![Sequence-R4](./screenshots/Sequence-diagram-R4.PNG)
 
 ---
 
 ### ✅ R5: Generate Reports  
 Generate product and sales reports.  
 - **Use Case:**  
-  ![UseCase-R5](./screenshots/Usecase-diagram-R5.png)  
+  ![UseCase-R5](./screenshots/Usecase-diagram-R5.PNG)  
 - **Sequence Diagram:**  
   ![Sequence-R5](./screenshots/Sequence-diagram-R5.PNG)
 
