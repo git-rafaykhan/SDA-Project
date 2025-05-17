@@ -1,0 +1,20 @@
+# Ignore backup and lock files from Visual Paradigm
+*.vpp.bak
+*.vpp.bak[0-9]*
+*.vpp.lck
+
+# Ignore autosave and recovery files
+*.autosave.vpp
+*.recover.vpp
+
+# Ignore workspace and configuration files
+.vpworkspace/
+.vpproject/
+
+# Optional: Ignore common OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Node/npm or IDE specific (if you're using VS Code or similar)
+node_modules/
+.vscode/
